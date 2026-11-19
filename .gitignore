@@ -1,0 +1,12 @@
+# source material, backups and tooling output (kept locally, too large for git)
+reference/
+changes/
+latest corrections/
+animation/
+logos/
+copy 1/
+.playwright-mcp/
+*.pdf
+*.zip
+.DS_Store
+Thumbs.db
